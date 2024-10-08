@@ -3,7 +3,7 @@
 - [ ] Instalacja git
 - [ ] Wygenerowanie i dodanie klucza ssh
 - [ ] Zmiana lokalizacji DocumentRoot w Apache2 and www/app/
-- [ ] Clone tego repo do lokalizacji www/app/
+- [ ] Clone tego repo do lokalizacji www/app/ (localhost:80 pokazuje 'ROAR!')
 
 - [ ] Utworzenie usera na DB dla aplikacji
 - [ ] Utworzenie bazy danych
