@@ -1,9 +1,9 @@
 # BEZ COMMITOW NA MAIN! Tylko osobne branch 
 
-- [ ] Instalacja git
-- [ ] Wygenerowanie i dodanie klucza ssh
-- [ ] Zmiana lokalizacji DocumentRoot w Apache2 and www/app/
-- [ ] Clone tego repo do lokalizacji www/app/ (localhost:80 pokazuje 'ROAR!')
+- [x] Instalacja git
+- [x] Wygenerowanie i dodanie klucza ssh
+- [x] Zmiana lokalizacji DocumentRoot w Apache2 and www/app/
+- [x] Clone tego repo do lokalizacji www/app/
 
 - [x] Utworzenie usera na DB dla aplikacji
 - [x] Utworzenie bazy danych
